@@ -1,0 +1,10 @@
+#pragma once
+
+#ifndef VERSION_HPP
+#define VERSION_HPP
+
+#define DRIFT_VERSION_MAJOR 0
+#define DRIFT_VERSION_MINOR 0
+#define DRIFT_VERSION_PATCH 1
+#define DRIFT_BUILD_NUMBER 1
+#endif //VERSION_HPP
